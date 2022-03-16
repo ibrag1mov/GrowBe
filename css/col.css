@@ -1,6 +1,6 @@
 .container {
   margin: auto;
-  width: 1140px;
+  width: 1170px;
 }
 
 .row {
@@ -31,6 +31,18 @@
 
 .align-bottom {
   align-items: end;
+}
+
+.flex{
+  display: flex;
+}
+
+.block{
+  display: block;
+}
+
+.between{
+  justify-content: space-between;
 }
 
 .col-1 {
